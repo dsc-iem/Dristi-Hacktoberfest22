@@ -53,7 +53,7 @@
 
 # Contribute
    ### Do Read - [Code of Conduct](https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/blob/main/CODE_OF_CONDUCT.md)
-   ### Jump to - [Contribute.md](https://github.com/Rohit-554/Project-Template-Hacktoberfest22/blob/main/CONTRIBUTE.md) (updated)
+   ### Jump to - [Contribute.md](https://github.com/dsc-iem/Dristi-Hacktoberfest22/blob/main/Contribute.md) (updated)
 Why not start your open source journey by merging some codes here. It will be very great if you review the code and  find some bugs and issues.
 
 ## Steps for a successful commit :zap:
@@ -73,7 +73,7 @@ Why not start your open source journey by merging some codes here. It will be ve
   *  Indent/Beautify/Modify codes.
 
 ### List of Contributors
-   Jump to [Contributors.md](https://github.com/Rohit-554/Project-Template-Hacktoberfest22/blob/main/CONTRIBUTE.md)
+   Jump to [Contributors.md](https://github.com/dsc-iem/Dristi-Hacktoberfest22/blob/main/Contribute.md)
    
 ### Live project link
 * Heroku - [Project Link]
