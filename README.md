@@ -76,5 +76,5 @@ Why not start your open source journey by merging some codes here. It will be ve
    Jump to [Contributors.md](https://github.com/dsc-iem/Dristi-Hacktoberfest22/blob/main/Contribute.md)
    
 
-
-Thank You! Keep Contributing :octocat:
+<br>
+<p align = "center"><h3>Thank You! Keep Contributing :octocat:</h3></p>
