@@ -52,7 +52,7 @@
 ---
 
 # Contribute
-   ### Do Read - [Code of Conduct](https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/blob/main/CODE_OF_CONDUCT.md)
+   ### Do Read - [Code of Conduct](https://github.com/dsc-iem/Dristi-Hacktoberfest22/blob/main/Code%20Of%20Conduct.md)
    ### Jump to - [Contribute.md](https://github.com/dsc-iem/Dristi-Hacktoberfest22/blob/main/Contribute.md) (updated)
 Why not start your open source journey by merging some codes here. It will be very great if you review the code and  find some bugs and issues.
 
