@@ -75,10 +75,6 @@ Why not start your open source journey by merging some codes here. It will be ve
 ### List of Contributors
    Jump to [Contributors.md](https://github.com/dsc-iem/Dristi-Hacktoberfest22/blob/main/Contribute.md)
    
-### Live project link
-* Heroku - [Project Link]
-* Website - [Project Link]
-
 
 
 Thank You! Keep Contributing :octocat:
