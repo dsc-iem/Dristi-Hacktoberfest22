@@ -24,7 +24,7 @@
 
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="https://raw.githubusercontent.com/chaitak-gorai/Project-Template-Hacktoberfest22/main/Hfest-Logo-2-Color-Manga.svg" width="30%">
+        <img src="https://raw.githubusercontent.com/dsc-iem/Dristi-Hacktoberfest22/main/Hfest-Logo-2-Color-Manga.svg" width="30%">
     </a>
 </p>
 
@@ -32,10 +32,10 @@
 
 <div align="center">
    
-   [![GitHub issues](https://img.shields.io/github/issues/chaitak-gorai/Project-Template-Hacktoberfest22?color=pink&logo=github)](https://github.com/acm-iem/Project-Template-Hacktoberfest22/issues)        [![GitHub PRs](https://img.shields.io/github/issues-pr/chaitak-gorai/Project-Template-Hacktoberfest22?style=social&logo=github)](https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/pulls)                    [![GitHub forks](https://img.shields.io/github/forks/chaitak-gorai/Project-Template-Hacktoberfest22?logo=git)](https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/network)
+   [![GitHub issues](https://img.shields.io/github/issues/dsc-iem/Dristi-Hacktoberfest22=pink&logo=github)](https://github.com/dsc-iem/Dristi-Hacktoberfest22/issues)        [![GitHub PRs](https://img.shields.io/github/issues-pr/dsc-iem/Dristi-Hacktoberfest22?style=social&logo=github)](https://github.com/dsc-iem/Dristi-Hacktoberfest22/pulls)                    [![GitHub forks](https://img.shields.io/github/forks/dsc-iem/Dristi-Hacktoberfest22?logo=git)](https://github.com/dsc-iem/Dristi-Hacktoberfest22/network)
    
-   <a href="https://github.com/chaitak-gorai/blogbook/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/chaitak-gorai/Project-Template-Hacktoberfest22?color=2b9348"></a>
-<a href="https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/blob/master/LICENSE"><img src="https://img.shields.io/github/license/chaitak-gorai/Project-Template-Hacktoberfest22?color=2b9348" alt="License Badge"/></a>
+   <a href="https://github.com/dsc-iem/Dristi-Hacktoberfest22/blogbook/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/dsc-iem/Dristi-Hacktoberfest22?color=2b9348"></a>
+<a href="https://github.com/dsc-iem/Dristi-Hacktoberfest22/blob/master/LICENSE"><img src="https://img.shields.io/github/license/dsc-iem/Dristi-Hacktoberfest22?color=2b9348" alt="License Badge"/></a>
 </div>
 
 ### 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2022 challenge and earn a limited edition T-shirt.
@@ -67,7 +67,7 @@ Why not start your open source journey by merging some codes here. It will be ve
 
  ### Ways to Contribute 
   * Find a bug by running the project locally
-  * Solve the [issues](https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/issues) which are already set up
+  * Solve the [issues](https://github.com/dsc-iem/Dristi-Hacktoberfest22/issues) which are already set up
   * Sugget some change or create your own isssue
   *  Create documentation like site structure, how to write a blog,etc
   *  Indent/Beautify/Modify codes.
