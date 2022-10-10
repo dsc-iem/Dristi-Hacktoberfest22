@@ -24,7 +24,7 @@
 
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="https://raw.githubusercontent.com/dsc-iem/Dristi-Hacktoberfest22/main/Hfest-Logo-2-Color-Manga.svg" width="30%">
+        <img src="https://raw.githubusercontent.com/dsc-iem/Dristi-Hacktoberfest22/main/Hfest.svg" width="30%">
     </a>
 </p>
 
