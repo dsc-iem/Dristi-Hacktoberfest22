@@ -4,7 +4,7 @@
     </a>
 </p> 
 
-# Dristi : A guide to college freshers
+# Dristi : Change the view
 ## ⭐ About Dristi
 **Dristi is an application that aims for bringing ones ideas, thoughts to the virtual world . So you can post your fav picture tell your experience , Others will like or comment on it .**
 ## 🧑‍💻 Tech Stack / Prerequisites
