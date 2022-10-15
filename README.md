@@ -18,6 +18,13 @@
 <br>
 <br>
 
+## Things to be implemented
+- Splash Screen
+- Login and Signup Screen
+- Adding G-Sign Functionality to the signup Screen
+- Home Page Ui and implementation
+- Adding location permission and detecting the live location of the person
+
 
 # ⭐ Hacktober Fest Accepted 
 
