@@ -1,10 +1,10 @@
 <p align="center">
     <a href="https://blogbook-blog.herokuapp.com/">
-        <img src="https://github.com/Rohit-554/Project-Template-Hacktoberfest22/blob/main/student.svg" alt="[Project Logo]" width="30%"> 
+        <img src="https://github.com/dsc-iem/Dristi-Hacktoberfest22/blob/master/App_logo1.svg" alt="[Project Logo]" width="30%"> 
     </a>
 </p> 
 
-# Dristi : A guide to college freshers
+# Dristi : Look Beyond
 ## ⭐ About Dristi
 **Dristi is an application that aims for bringing ones ideas, thoughts to the virtual world . So you can post your fav picture tell your experience , Others will like or comment on it .**
 ## 🧑‍💻 Tech Stack / Prerequisites
